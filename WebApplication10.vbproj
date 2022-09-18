@@ -104,6 +104,7 @@
     <Content Include="image\pexels-ethan-sees-2534618.jpg" />
     <Content Include="index.html" />
     <Content Include="js\main.js" />
+    <Content Include="package.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -145,7 +146,6 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
